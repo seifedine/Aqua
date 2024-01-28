@@ -1,0 +1,25 @@
+body {
+    background: radial-gradient(circle, #a1cbc4 0%, #8fb2ac 33%, #769a94 66%, #5e8280 100%);
+}
+
+header.navbar {
+    background: none;
+    border: none;
+    box-shadow: none;
+}
+.StakingForm {
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 1.6em;
+    border-radius: 20px;
+    margin: 100px;
+    padding: 32px;
+    box-shadow: none;
+    background: #00000057;
+    color: rgba(255, 255, 255, .8);
+    box-shadow: 1px 1px 8px #000;
+}
+.StakingForm fieldset {
+    color: #fff;
+    border-color: #fff;
+}
